@@ -1,0 +1,23 @@
+.containerr {
+    position: relative;
+    font-family: Arial;
+  }
+  .text-block {
+    position: absolute;
+    bottom: 21%;
+    right: 45%;
+    font-size: 25px;
+    color: #999999 ;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .form-block {
+    position: absolute;
+    bottom: 19%;
+    right: 10%;
+    font-size: 25px;
+    color: #999999 ;
+
+    padding-left: 20px;
+    padding-right: 20px;
+  }
